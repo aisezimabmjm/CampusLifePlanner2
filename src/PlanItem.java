@@ -37,4 +37,5 @@ public class PlanItem {
                 " | Duration: " + durationHours + "h" +
                 " | Completed: " + completed;
     }
+
 }
